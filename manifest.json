@@ -1,6 +1,7 @@
 {
   "short_name": "Keratoconus Group",
   "name": "Keratoconus Group Support Community and Blog",
+  "display": "browser"
   "icons": [
     {
       "src": "http://i.imgur.com/oh4imNG.png",
@@ -18,5 +19,5 @@
       "sizes": "192x192"
     }
   ],
-  "start_url": "/?utm_source=homescreen"
+  "start_url": "https://www.keratoconusgroup.org/?utm_source=homescreen"
 }
