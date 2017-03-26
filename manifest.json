@@ -1,19 +1,19 @@
 {
-  "short_name": "AirHorner",
-  "name": "Kinlan's AirHorner of Infamy",
+  "short_name": "Keratoconus Group",
+  "name": "Keratoconus Group Support Community and Blog",
   "icons": [
     {
-      "src": "launcher-icon-1x.png",
+      "src": "http://i.imgur.com/oh4imNG.png",
       "type": "image/png",
-      "sizes": "48x48"
+      "sizes": "57x57"
     },
     {
-      "src": "launcher-icon-2x.png",
+      "src": "http://i.imgur.com/zKE8ZML.png",
       "type": "image/png",
-      "sizes": "96x96"
+      "sizes": "144x144"
     },
     {
-      "src": "launcher-icon-4x.png",
+      "src": "http://i.imgur.com/JE3HTXw.png",
       "type": "image/png",
       "sizes": "192x192"
     }
