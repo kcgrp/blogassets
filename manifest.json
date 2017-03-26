@@ -4,17 +4,17 @@
   "display": "browser"
   "icons": [
     {
-      "src": "http://i.imgur.com/oh4imNG.png",
+      "src": "https://i.imgur.com/oh4imNG.png",
       "type": "image/png",
       "sizes": "57x57"
     },
     {
-      "src": "http://i.imgur.com/zKE8ZML.png",
+      "src": "https://i.imgur.com/zKE8ZML.png",
       "type": "image/png",
       "sizes": "144x144"
     },
     {
-      "src": "http://i.imgur.com/JE3HTXw.png",
+      "src": "https://i.imgur.com/JE3HTXw.png",
       "type": "image/png",
       "sizes": "192x192"
     }
