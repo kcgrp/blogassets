@@ -16,7 +16,8 @@
     {
       "src": "https://i.imgur.com/JE3HTXw.png",
       "type": "image/png",
-      "sizes": "192x192"
+      "sizes": "192x192",
+      "purpose": "any maskable"
     }
   ],
   "start_url": "https://www.keratoconusgroup.org/?utm_source=homescreen",
