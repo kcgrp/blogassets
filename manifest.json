@@ -11,7 +11,7 @@
     {
       "src": "https://i.imgur.com/zKE8ZML.png",
       "type": "image/png",
-      "sizes": "144x144"
+      "sizes": "114x114"
     },
     {
       "src": "https://i.imgur.com/JE3HTXw.png",
@@ -20,9 +20,8 @@
     }
   ],
   "start_url": "https://www.keratoconusgroup.org/?utm_source=homescreen",
-"background_color": "#f8f9fa",
+  "background_color": "#f8f9fa",
   "display": "standalone",
   "scope": "/",
-  "theme_color": "#0071BD",
-  "display": "browser"
+  "theme_color": "#0071BD"
 }
