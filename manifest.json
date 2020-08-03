@@ -1,6 +1,7 @@
 {
   "short_name": "Keratoconus Group",
   "name": "Keratoconus Group",
+  "description": "Keratoconus support community for patients and their families, eye care professionals, optometrists and ophthalmologists, with 30,000+ forum members.",
   "icons": [
     {
       "src": "https://i.imgur.com/oh4imNG.png",
@@ -19,5 +20,9 @@
     }
   ],
   "start_url": "https://www.keratoconusgroup.org/?utm_source=homescreen",
+"background_color": "#f8f9fa",
+  "display": "standalone",
+  "scope": "/",
+  "theme_color": "#0071BD",
   "display": "browser"
 }
