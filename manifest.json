@@ -4,17 +4,22 @@
   "description": "Keratoconus support community for patients and their families, eye care professionals, optometrists and ophthalmologists, with 30,000+ forum members.",
   "icons": [
     {
-      "src": "https://i.imgur.com/oh4imNG.png",
+      "src": "https://files.keratoconusgroup.org/img/logo-57.png",
       "type": "image/png",
       "sizes": "57x57"
     },
     {
-      "src": "https://i.imgur.com/zKE8ZML.png",
+      "src": "https://files.keratoconusgroup.org/img/logo-114",
       "type": "image/png",
       "sizes": "114x114"
     },
     {
-      "src": "https://i.imgur.com/JE3HTXw.png",
+      "src": "https://files.keratoconusgroup.org/img/logo-144.png",
+      "type": "image/png",
+      "sizes": "144x144"
+    },
+    {
+      "src": "https://files.keratoconusgroup.org/img/logo-192.png",
       "type": "image/png",
       "sizes": "192x192",
       "purpose": "any maskable"
