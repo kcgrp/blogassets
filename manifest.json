@@ -11,7 +11,7 @@
       "sizes": "57x57"
     },
     {
-      "src": "https://files.keratoconusgroup.org/img/logo-114",
+      "src": "https://files.keratoconusgroup.org/img/logo-114.png",
       "type": "image/png",
       "sizes": "114x114"
     },
@@ -28,8 +28,7 @@
     {
       "src": "https://files.keratoconusgroup.org/img/logo-512.png",
       "type": "image/png",
-      "sizes": "512x512",
-      "purpose": "any maskable"
+      "sizes": "512x512"
     }
   ],
   "id": "https://www.keratoconusgroup.org/?source=pwa",
@@ -38,6 +37,7 @@
   "display": "standalone",
   "scope": "/",
   "theme_color": "#0071BD",
-  "display": "browser",
+  "display_override": ["fullscreen", "minimal-ui"],
+  "display": "standalone",
   "orientation": "any"
 }
