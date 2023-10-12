@@ -1,7 +1,9 @@
 {
   "short_name": "Keratoconus Group",
   "name": "Keratoconus Group",
-  "description": "Keratoconus support community for patients and their families, eye care professionals, optometrists and ophthalmologists, with 30,000+ forum members.",
+  "description": "Keratoconus Group is a safe and supportive community for people living with keratoconus, and the people who care for them.",
+  "lang": "en-us",
+  "dir": "ltr",
   "icons": [
     {
       "src": "https://files.keratoconusgroup.org/img/logo-57.png",
@@ -21,13 +23,21 @@
     {
       "src": "https://files.keratoconusgroup.org/img/logo-192.png",
       "type": "image/png",
-      "sizes": "192x192",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://files.keratoconusgroup.org/img/logo-512.png",
+      "type": "image/png",
+      "sizes": "512x512",
       "purpose": "any maskable"
     }
   ],
-  "start_url": "https://www.keratoconusgroup.org/?utm_source=homescreen",
+  "id": "https://www.keratoconusgroup.org/?source=pwa",
+  "start_url": "https://www.keratoconusgroup.org/?source=pwa",
   "background_color": "#f8f9fa",
   "display": "standalone",
   "scope": "/",
-  "theme_color": "#0071BD"
+  "theme_color": "#0071BD",
+  "display": "browser",
+  "orientation": "any"
 }
